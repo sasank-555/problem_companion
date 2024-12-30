@@ -22,7 +22,7 @@
 - **Tailwind CSS:** A utility-first CSS framework for modern styling.  
 - **Crux:** Used for scaffolding the Chrome extension structure.  
 - **Axios:** Simplifies API requests to OpenAI's GPT models.  
-- **Chrome Extensions:** Enhances browser functionality for a seamless experience.  
+
 
 ---
 
