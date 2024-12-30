@@ -141,7 +141,7 @@ const Cpage = () => {
     setOutputFormat(dottt(elements[1]));
     setDescription(descriptionText);
     setConstraints(constraintsText);
-    console.log(usercode, inputFormat);
+    // console.log(usercode, inputFormat);
   });
 
   useEffect(() => {
