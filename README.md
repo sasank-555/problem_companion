@@ -4,7 +4,7 @@
 
 # AI Assistant Extension  
 
-This is a React-based Chrome extension that integrates AI to assist users with algorithm problems. Built using React and styled with Tailwind CSS, this extension provides a clean and interactive interface for users to communicate with AI directly within their browser.  
+Video Link<https://youtu.be/rrBq7jrAU2Q>
 
 ---
 
@@ -45,8 +45,7 @@ manifest.json        # Chrome extension manifest
 
 1. **Clone the Repository:**  
    ```bash
-   git clone <repository-url>
-   cd <repository-folder>
+   git clone <https://github.com/sasank-555/sasank_nasika_submission>
    ```
 
 2. **Install Dependencies:**  
