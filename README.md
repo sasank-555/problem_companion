@@ -131,4 +131,3 @@ This project is licensed under the MIT License. Feel free to modify and distribu
 
 --- 
 
-Now, you can replace `<repository-url>` with your project's repository URL if hosted online.
