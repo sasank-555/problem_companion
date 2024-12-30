@@ -4,7 +4,7 @@
 
 # AI Assistant Extension  
 
-This is a React-based Chrome extension that integrates AI to assist users with algorithm problems. Built using React and styled with Tailwind CSS, this extension provides a clean and interactive interface for users to communicate with AI directly within their browser.  
+[**Watch Demo Video Here**](https://youtu.be/rrBq7jrAU2Q)  
 
 ---
 
@@ -13,6 +13,16 @@ This is a React-based Chrome extension that integrates AI to assist users with a
 - **Local Storage Support:** Messages are saved locally for each problem for reference.  
 - **Clean and Modern UI:** Styled using Tailwind CSS for a sleek look.  
 - **Customizable Prompts:** Default AI instructions ensure focused and consistent responses.  
+
+---
+
+## Tech Stack  
+
+- **React.js:** A JavaScript library for building user interfaces.  
+- **Tailwind CSS:** A utility-first CSS framework for modern styling.  
+- **Crux:** Used for scaffolding the Chrome extension structure.  
+- **Axios:** Simplifies API requests to OpenAI's GPT models.  
+
 
 ---
 
@@ -45,17 +55,13 @@ manifest.json        # Chrome extension manifest
 
 1. **Clone the Repository:**  
    ```bash
-   git clone <repository-url>
-   cd <repository-folder>
+   git clone <https://github.com/sasank-555/sasank_nasika_submission>
    ```
 
 2. **Install Dependencies:**  
    ```bash
    npm install
    ```  
-
-3. **Set Up Tailwind CSS (Optional):**  
-   Tailwind is already configured in `index.css`. You can customize it further if needed.  
 
 ---
 
@@ -131,3 +137,4 @@ This project is licensed under the MIT License. Feel free to modify and distribu
 
 --- 
 
+This README is now more comprehensive with the **Tech Stack** section highlighting all the core technologies used in the project!
