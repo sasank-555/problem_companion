@@ -1,3 +1,5 @@
+
+
 ---
 
 # AI Assistant Extension  
@@ -20,6 +22,7 @@
 - **Tailwind CSS:** A utility-first CSS framework for modern styling.  
 - **Crux:** Used for scaffolding the Chrome extension structure.  
 - **Axios:** Simplifies API requests to OpenAI's GPT models.  
+- **Chrome Extensions:** Enhances browser functionality for a seamless experience.  
 
 ---
 
@@ -37,6 +40,7 @@ public/
 ├── index.html       # HTML template
 manifest.json        # Chrome extension manifest
 ```
+
 ---
 
 ## Prerequisites  
@@ -74,6 +78,7 @@ manifest.json        # Chrome extension manifest
    - Enable **Developer Mode** in the top-right corner.  
    - Click **Load unpacked** and select the `build/` folder generated in the previous step.  
    - The extension will appear in the extensions list, ready for use.  
+
 ---
 
 ## Usage  
@@ -96,10 +101,12 @@ manifest.json        # Chrome extension manifest
 ---
 
 ## Technologies Used  
+
 - **React.js**: Frontend framework.  
 - **Tailwind CSS**: For styling the application.  
 - **Axios**: To make API calls to OpenAI's GPT models.  
 - **Crux:** Used initially for scaffolding the Chrome extension.  
+
 ---
 
 ## Troubleshooting  
@@ -130,3 +137,4 @@ This project is licensed under the MIT License. Feel free to modify and distribu
 
 --- 
 
+This README is now more comprehensive with the **Tech Stack** section highlighting all the core technologies used in the project!
