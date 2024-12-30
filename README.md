@@ -1,10 +1,8 @@
-
-
 ---
 
 # AI Assistant Extension  
 
-Video Link<https://youtu.be/rrBq7jrAU2Q>
+[**Watch Demo Video Here**](https://youtu.be/rrBq7jrAU2Q)  
 
 ---
 
@@ -13,6 +11,15 @@ Video Link<https://youtu.be/rrBq7jrAU2Q>
 - **Local Storage Support:** Messages are saved locally for each problem for reference.  
 - **Clean and Modern UI:** Styled using Tailwind CSS for a sleek look.  
 - **Customizable Prompts:** Default AI instructions ensure focused and consistent responses.  
+
+---
+
+## Tech Stack  
+
+- **React.js:** A JavaScript library for building user interfaces.  
+- **Tailwind CSS:** A utility-first CSS framework for modern styling.  
+- **Crux:** Used for scaffolding the Chrome extension structure.  
+- **Axios:** Simplifies API requests to OpenAI's GPT models.  
 
 ---
 
@@ -30,7 +37,6 @@ public/
 ├── index.html       # HTML template
 manifest.json        # Chrome extension manifest
 ```
-
 ---
 
 ## Prerequisites  
@@ -53,9 +59,6 @@ manifest.json        # Chrome extension manifest
    npm install
    ```  
 
-3. **Set Up Tailwind CSS (Optional):**  
-   Tailwind is already configured in `index.css`. You can customize it further if needed.  
-
 ---
 
 ## Building the Extension  
@@ -71,7 +74,6 @@ manifest.json        # Chrome extension manifest
    - Enable **Developer Mode** in the top-right corner.  
    - Click **Load unpacked** and select the `build/` folder generated in the previous step.  
    - The extension will appear in the extensions list, ready for use.  
-
 ---
 
 ## Usage  
@@ -94,12 +96,10 @@ manifest.json        # Chrome extension manifest
 ---
 
 ## Technologies Used  
-
 - **React.js**: Frontend framework.  
 - **Tailwind CSS**: For styling the application.  
 - **Axios**: To make API calls to OpenAI's GPT models.  
 - **Crux:** Used initially for scaffolding the Chrome extension.  
-
 ---
 
 ## Troubleshooting  
